@@ -1,0 +1,21 @@
+10/04/23
+what is the difference between html4 and html5?
+
+New features in html5
+1. semantic tags
+2. Media tags
+3. geolocation was enabled
+4. canvas 
+5. drag and drop
+
+
+Semantic tags:
+these are the tags that define the meaning of the
+content they contain
+Ex:- <header>, <article>, <footer>
+
+
+
+Media tags
+-audio tags
+-video tags
